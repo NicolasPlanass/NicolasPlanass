@@ -1,6 +1,6 @@
 
-- 👋 Hi, I’m @NicoPlanass! Front-End Developer
+- 👋 Hi, I’m @NicoPlanass! Full Stack Developer
 - 👀 I’m interested in soccer, music and stocks! Always ready to learn more!
-- 🌱 Currently study -> Back-end
+- 🌱 Currently deepening knowledge of React.JS
 - 💻 I’m looking to collaborate on amazing projects in the future and be part of an incredible team! 👏
-- 📫 How to reach me -> DM on instagram! @nicoPlanass or via LinkedIn (Nicolas Planas)
+- 📫 How to reach me -> LinkedIn (Nicolas Planas)
