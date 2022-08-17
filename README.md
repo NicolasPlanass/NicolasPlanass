@@ -4,7 +4,8 @@
 - 👀 I’m interested in soccer, music and stocks! Always ready to learn more!
 - 🌱 Currently deepening knowledge of TypeScript
 - 💻 I’m looking to collaborate on amazing projects in the future and be part of an incredible team! 👏
-- 📫 How to reach me -> LinkedIn (Nicolas Planas)
+- 📫 How to reach me -> <a href="https://www.linkedin.com/in/nicolas-planas-9a4568180/" target="blank"><img align="center" src="https://res.cloudinary.com/dzhslrosq/image/upload/v1660695976/linkedin_ft6o6f.png" alt="https://www.linkedin.com/in/nicolas-planas-9a4568180/" height="24" width="24" /></a>
+<a href="mailto:dev.nicolasplanas@gmail.com" target="blank"><img align="center" src="https://res.cloudinary.com/dzhslrosq/image/upload/v1660695972/gmail_i9gsvf.png" alt="email" height="28" width="26" /></a>
 
 
 <hr/>
