@@ -1,6 +1,6 @@
 <img src="https://res.cloudinary.com/dzhslrosq/image/upload/v1660694995/Banner_Electro%CC%81nica_y_Tecnologi%CC%81a_Exhibicio%CC%81n_Moderno_Retractable_Azul_y_Rosa_1_ylbswk.png" alt="Hi there!" width="100%" borderRadius="20px"/>
 
-- 👋 Hi, I’m @NicoPlanass! Full Stack Developer but with a front-end orientation.
+- 👋 Hi everybody! I'm Nicolas, a Full Stack Developer but with a front-end orientation.
 - 👀 I’m interested in soccer, music and stocks! Always ready to learn more!
 - 🌱 Currently deepening knowledge of TypeScript
 - 💻 I’m looking to collaborate on amazing projects in the future and be part of an incredible team! 👏
