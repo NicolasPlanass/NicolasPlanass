@@ -3,7 +3,7 @@
 - 👋 Hi everybody! I'm Nicolas, a Full Stack Developer.
 - 👀 I’m interested in soccer, music and stocks! Always ready to learn more!
 - 🌱 Currently deepening knowledge of TypeScript
-- 💻 I’m looking to collaborate on amazing projects in the future and be part of an incredible team! 👏
+<!-- - 💻 I’m looking to collaborate on amazing projects in the future and be part of an incredible team! 👏 -->
 - 📫 How to reach me -> <a href="https://www.linkedin.com/in/nicolas-planas-9a4568180/" target="blank"><img align="center" src="https://res.cloudinary.com/dzhslrosq/image/upload/v1662473091/linkedin_t3qoiq.png" alt="https://www.linkedin.com/in/nicolas-planas-9a4568180/" height="24" width="24" /></a>
 <a href="mailto:dev.nicolasplanas@gmail.com" target="blank"><img align="center" src="https://res.cloudinary.com/dzhslrosq/image/upload/v1662473050/gmail_1_jb10sg.png" alt="email" height="28" width="26" /></a>
 
