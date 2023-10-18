@@ -19,6 +19,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank"> <img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo-square.png" alt="next js" width="40" height="40" /> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Pic.png" alt="mongoDB" width="40" height="40"/> </a>
 </div>
 </div>
