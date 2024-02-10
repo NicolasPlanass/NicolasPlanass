@@ -1,7 +1,10 @@
-<img src="https://res.cloudinary.com/dzhslrosq/image/upload/v1660694526/Banner_Electro%CC%81nica_y_Tecnologi%CC%81a_Exhibicio%CC%81n_Moderno_Retractable_Azul_y_Rosa_qostyn.png" alt="Hi there!" width="100%" borderRadius="20px"/>
+# Hi there :wave:
 
-- 👋 Hi everybody! I'm Nicolas, a Full Stack Developer.
-- 👀 I’m interested in soccer, music and stocks! Always ready to learn more!
+I'm Nicolas, a technology enthusiast and developer.
+
+- :computer: I'm a Full Stack Web Developer from Argentina
+
+- :purple_heart: I specialize in React and Node. Always ready to learn more!
 <!-- - 🌱 Currently deepening knowledge of TypeScript--> 
 <!-- - 💻 I’m looking to collaborate on amazing projects in the future and be part of an incredible team! 👏 -->
 - 📫 How to reach me -> <a href="https://www.linkedin.com/in/nicolas-planas-9a4568180/" target="blank"><img align="center" src="https://res.cloudinary.com/dzhslrosq/image/upload/v1662473091/linkedin_t3qoiq.png" alt="https://www.linkedin.com/in/nicolas-planas-9a4568180/" height="24" width="24" /></a>
