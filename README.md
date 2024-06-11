@@ -5,7 +5,7 @@ I'm Nicolas, a technology enthusiast and developer.
 - :computer: I'm a Full Stack Web Developer from Argentina
 
 - :purple_heart: I specialize in React and Node. Always ready to learn more!
-<!-- - 🌱 Currently deepening knowledge of TypeScript--> 
+<!-- - 🌱 Currently deepening knowledge of Nest JS--> 
 <!-- - 💻 I’m looking to collaborate on amazing projects in the future and be part of an incredible team! 👏 -->
 - 📫 How to reach me -> <a href="https://www.linkedin.com/in/nicolas-planas-9a4568180/" target="blank"><img align="center" src="https://res.cloudinary.com/dzhslrosq/image/upload/v1662473091/linkedin_t3qoiq.png" alt="https://www.linkedin.com/in/nicolas-planas-9a4568180/" height="24" width="24" /></a>
 <a href="mailto:dev.nicolasplanas@gmail.com" target="blank"><img align="center" src="https://res.cloudinary.com/dzhslrosq/image/upload/v1662473050/gmail_1_jb10sg.png" alt="email" height="28" width="26" /></a>
@@ -24,6 +24,7 @@ I'm Nicolas, a technology enthusiast and developer.
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank"> <img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo-square.png" alt="next js" width="40" height="40" /> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Pic.png" alt="mongoDB" width="40" height="40"/> </a>
+<a href="https://www.python.org/" target="_blank"> <img src="https://res.cloudinary.com/dzhslrosq/image/upload/v1718119379/Python-logo-notext.svg_foo8bq.png" width="40" height="40"/> </a>
 </div>
 </div>
 
