@@ -8,7 +8,7 @@ I'm Nicolas, a technology enthusiast and developer.
 <!-- - 🌱 Currently deepening knowledge of Nest JS--> 
 <!-- - 💻 I’m looking to collaborate on amazing projects in the future and be part of an incredible team! 👏 -->
 - 📫 How to reach me -> <a href="https://www.linkedin.com/in/nicolas-planas-9a4568180/" target="blank"><img align="center" src="https://res.cloudinary.com/dzhslrosq/image/upload/v1662473091/linkedin_t3qoiq.png" alt="https://www.linkedin.com/in/nicolas-planas-9a4568180/" height="24" width="24" /></a>
-<a href="mailto:dev.nicolasplanas@gmail.com" target="blank"><img align="center" src="https://res.cloudinary.com/dzhslrosq/image/upload/v1662473050/gmail_1_jb10sg.png" alt="email" height="28" width="26" /></a>
+<a href="mailto:nicolasplanas1998@gmail.com" target="blank"><img align="center" src="https://res.cloudinary.com/dzhslrosq/image/upload/v1662473050/gmail_1_jb10sg.png" alt="email" height="28" width="26" /></a>
 
 
 <!-- <div align="center">
